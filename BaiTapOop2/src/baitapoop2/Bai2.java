@@ -12,7 +12,7 @@ public class Bai2 {
 		lstWorkers.add(new Employee("Hà", "Hà Nam", "Hacker" ,0123456,1234567));
 		lstWorkers.add(new Employee("Hưng", "Hà Nam", "Hacker" ,0123456, 98765432));
 		lstWorkers.add(new Employee("Đức", "Hà Nam", "Hacker" ,0123456, 7632123));
-		lstWorkers.add(new Employee("Nam", "Hà Nam", "Hacker" ,0123456, 45678643));
+		lstWorkers.add(new Employee("Nam", "Hà Nam", "Hacker" ,0123456, 16145500000000,00));
 		
 		for(int i = 0;i < lstWorkers.size()-1;i++) {
 			for(int j = i+1 ;j<lstWorkers.size();j++) {
