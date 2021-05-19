@@ -8,7 +8,7 @@ import java.sql.*;
 import java.util.Properties;
 /**
  *
- * @author KhanhKyo
+ * @author phong
  */
 public class DatabaseConnect {
     private final String url;
